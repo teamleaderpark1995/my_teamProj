@@ -1,0 +1,7 @@
+1. JDK 버전 설정
+2. Tomcat 버전
+3. Spring 버전
+4. Dynamic web project 버전
+5. 오라클 버전, 드라이버
+6. 사용할 라이브러리 (pom.xml)
+7. webapp <== 팀원별로 관리할 기능의 폴더 생성후
